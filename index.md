@@ -1,7 +1,7 @@
 <!-- nope -->
 ## Contact me
 
-- **E-Mail**: laura.luidolt@gmail.com
+- **E-Mail**: [laura.luidolt@gmail.com](mailto:laura.luidolt@gmail.com)
 
 
 ## CV

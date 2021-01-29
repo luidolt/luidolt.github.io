@@ -10,16 +10,76 @@
 
 ## Publications
 
-Luidolt, L. R., M. Wimmer, K. Krösl. 2020. „_Gaze-Dependent Simulation of Light Perception in Virtual Reality._“ ISMAR 2020, TVCG, in review.
 
-Luidolt, L. R. 2020. „_Perception of Light in Virtual Reality._“ Research Unit of Computer Graphics, Institute of Visual Computing and Human-Centered Technology, Faculty of Informatics, TU Wien , Favoritenstrasse 9-11/E193-02, A-1040 Vienna, Austria.
+```markdown
+@article{luidolt-2020-gazelightperception,
+	author = {Luidolt, Laura R. and Wimmer, Michael and Kr\"{o}sl, Katharina },
+	title = {Gaze-Dependent Simulation of Light Perception in Virtual Reality},
+	journal = {IEEE Transactions on Visualization and Computer Graphics},
+	year = 2020,
+	month = dec,
+	volume = 26,
+	note = {https://www.cg.tuwien.ac.at/research/publications/2020/luidolt-2020-lightperceptionVR/},
+}
 
-Reichinger, A., H. G. Carrizosa, J. Wood, S. Schröder, C. Löw, L. R. Luidolt, M. Schimkowitsch, A. Fuhrmann, S. Maierhofer, und W. Purgathofer. 2018. „_Pictures in Your Mind: Using Interactive Gesture-Controlled Reliefs to Explore Art._“ ACM Trans. Access. Comput. 2:1–2:39.
+@conference{kroesl-2020-cararact,
+	title = {{CatARact}: Simulating Cataracts in Augmented Reality},
+	author = {Kr\"{o}sl, Katharina and Elvezio, Carmine and Luidolt, Laura R. and H\"{u}rbe, Matthias and Karst, Sonja and Feiner. Steven and Wimmer, Michael},
+	year = 2020,
+	month = nov,
+	booktitle = {2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)},
+	note = {https://www.cg.tuwien.ac.at/research/publications/2020/Kroesl_2020_11_09/},
+}
 
-Luidolt, L. R. 2018. „_Simultaneous calibration of a colour camera, depth camera, and projector and 3D object pose recognition._“ Proceedings of CESCG 2018: The 22nd Central European Seminar on Computer Graphics.
+@mastersthesis{luidolt-2020-lightperceptionvr,
+	author = {Luidolt, Laura R.},
+	title = {Perception of Light in Virtual Reality},
+	school = {TU Wien},
+	year = 2020,
+	type = {Diploma Thesis},
+	month = feb,
+	note = {https://www.cg.tuwien.ac.at/research/publications/2020/Luidolt-2020-DA/}
+}
 
-Luidolt, L. R. 2017. „_Simultaneous calibration of colour camera, depth camera and projector and 3D object pose recognition._“ Faculty of Informatics, TU Wien.
+@conference{luidolt-2018-calibrationpaper,
+	author = {Luidolt, Laura R.},
+	title = {Simultaneous calibration of a colour camera, depth camera, and projector and 3D object pose recognition},
+	booktitle = {Proceedings of the 22nd Central European Seminar on Computer Graphics},
+	year = 2018,
+	month = apr,
+	note = {https://cescg.org/cescg_submission/simultaneous-calibration-of-a-colour-camera-depth-camera-and-projector-and-3d-object-pose-recognition/},
+}
 
+@article{reichinger-2018-gesturereliefs,
+	author = {Reichinger, Andreas and Carrizosa, Helena Garcia and Wood, Joanna and Schr\"{o}der, Svenja and L\"{o}w, Christian and Luidolt, Laura R. and Schimkowitsch, Maria and Fuhrmann, Anton and Maierhofer, Stefan and Purgathofer, Werner},
+	title = {Pictures in Your Mind: Using Interactive Gesture-Controlled Reliefs to Explore Art},
+	year = 2018,
+	journal = {ACM Transactions on Accessible Computing},
+	volume = 11,
+	month = mar,
+	note = {https://www.cg.tuwien.ac.at/research/publications/2018/Reichinger-2018-TAC/},
+}
+
+@mastersthesis{luidolt-2017-calibrationthesis,
+	author = {Luidolt, Laura R.},
+	title = {Simultaneous calibration of colour camera, depth camera and projector},
+	school = {TU Wien},
+	year = 2017,
+	type = {Bachelor's Thesis},
+	month = oct,
+	note = {todo}
+}
+
+@mastersthesis{luidolt-2014-rubikscube,
+	author = {Luidolt, Laura R.},
+	title = {Der Rubik's Cube und seine mathematischen Grundlagen},
+	school = {PdC BORG Radstadt},
+	year = 2014,
+	type = {High School Thesis},
+	month = jun,
+	note = {todo}
+}
+```
 
 <!--## Welcome to GitHub Pages
 

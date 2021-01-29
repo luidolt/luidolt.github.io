@@ -1,4 +1,4 @@
-<!-- nope -->
+
 ## Contact me
 
 - **E-Mail**: [laura.luidolt@gmail.com](mailto:laura.luidolt@gmail.com)
@@ -7,6 +7,19 @@
 ## CV
 
 [Link](https://europa.eu/!Hw44mV)
+
+## Publications
+
+Luidolt, L. R., M. Wimmer, K. Krösl. 2020. „_Gaze-Dependent Simulation of Light Perception in Virtual Reality._“ ISMAR 2020, TVCG, in review.
+
+Luidolt, L. R. 2020. „_Perception of Light in Virtual Reality._“ Research Unit of Computer Graphics, Institute of Visual Computing and Human-Centered Technology, Faculty of Informatics, TU Wien , Favoritenstrasse 9-11/E193-02, A-1040 Vienna, Austria.
+
+Reichinger, A., H. G. Carrizosa, J. Wood, S. Schröder, C. Löw, L. R. Luidolt, M. Schimkowitsch, A. Fuhrmann, S. Maierhofer, und W. Purgathofer. 2018. „_Pictures in Your Mind: Using Interactive Gesture-Controlled Reliefs to Explore Art._“ ACM Trans. Access. Comput. 2:1–2:39.
+
+Luidolt, L. R. 2018. „_Simultaneous calibration of a colour camera, depth camera, and projector and 3D object pose recognition._“ Proceedings of CESCG 2018: The 22nd Central European Seminar on Computer Graphics.
+
+Luidolt, L. R. 2017. „_Simultaneous calibration of colour camera, depth camera and projector and 3D object pose recognition._“ Faculty of Informatics, TU Wien.
+
 
 <!--## Welcome to GitHub Pages
 

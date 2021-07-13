@@ -23,7 +23,7 @@
 }
 
 @conference{kroesl-2020-cararact,
-	title = {{CatARact}: Simulating Cataracts in Augmented Reality},
+	title = {CatARact: Simulating Cataracts in Augmented Reality},
 	author = {Kr\"{o}sl, Katharina and Elvezio, Carmine and Luidolt, Laura R. and H\"{u}rbe, Matthias and Karst, Sonja and Feiner. Steven and Wimmer, Michael},
 	year = 2020,
 	month = nov,

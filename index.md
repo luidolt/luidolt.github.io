@@ -6,7 +6,7 @@
 
 ## CV
 
-[Link](https://europa.eu/!Hw44mV)
+[Link](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/b50d7e72-7150-493b-86d9-a5b1062ff256?view=html)
 
 ## Publications
 
@@ -81,7 +81,14 @@
 }
 ```
 
-<!--## Welcome to GitHub Pages
+<!--## 
+
+TODO: ADD TEACHING
+
+
+
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/luidolt/luidolt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

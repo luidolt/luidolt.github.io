@@ -11,7 +11,7 @@
 ## Publications
 
 
-```markdown
+```bibtex
 @article{luidolt-2020-gazelightperception,
 	author = {Luidolt, Laura R. and Wimmer, Michael and Kr\"{o}sl, Katharina },
 	title = {Gaze-Dependent Simulation of Light Perception in Virtual Reality},
